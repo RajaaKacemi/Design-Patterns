@@ -8,7 +8,7 @@ public class ObservableImpl implements Observable{
     private List<Observer> observables = new ArrayList<>();
 
     @Override
-    public void addObserver(Observer observer) {
+    public void subscribe(Observer observer) {
         observables.add(observer);
     }
 
