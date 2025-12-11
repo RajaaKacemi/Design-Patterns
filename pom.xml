@@ -10,6 +10,10 @@
     <packaging>pom</packaging>
     <modules>
         <module>PatternObserver</module>
+        <module>PatternDecorateur</module>
+        <module>untitled</module>
+        <module>PatterComposite</module>
+        <module>PatternAdapter</module>
     </modules>
 
     <properties>
